@@ -6,7 +6,12 @@ namespace GitPractice
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! Change. Another change.");
+            string name = "World";
+
+            if (args.Length > 0)
+                name = args[0];
+
+            Console.WriteLine("Hello " + name + "!");
         }
     }
 }

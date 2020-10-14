@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\allee\\Source\\Repos\\GitPractice\\GitPractice\\GitPractice.csproj": {}
+    "C:\\Users\\allee\\source\\repos\\GitPractice\\GitPractice\\GitPractice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\allee\\Source\\Repos\\GitPractice\\GitPractice\\GitPractice.csproj": {
+    "C:\\Users\\allee\\source\\repos\\GitPractice\\GitPractice\\GitPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\allee\\Source\\Repos\\GitPractice\\GitPractice\\GitPractice.csproj",
+        "projectUniqueName": "C:\\Users\\allee\\source\\repos\\GitPractice\\GitPractice\\GitPractice.csproj",
         "projectName": "GitPractice",
-        "projectPath": "C:\\Users\\allee\\Source\\Repos\\GitPractice\\GitPractice\\GitPractice.csproj",
+        "projectPath": "C:\\Users\\allee\\source\\repos\\GitPractice\\GitPractice\\GitPractice.csproj",
         "packagesPath": "C:\\Users\\allee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\allee\\Source\\Repos\\GitPractice\\GitPractice\\obj\\",
+        "outputPath": "C:\\Users\\allee\\source\\repos\\GitPractice\\GitPractice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

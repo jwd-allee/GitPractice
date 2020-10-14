@@ -4,9 +4,6 @@ namespace GitPractice
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World! Change. Another change.");
-        }
+        static void Main(string[] args) => Console.WriteLine("Hello World! Change. Another change.");
     }
 }
